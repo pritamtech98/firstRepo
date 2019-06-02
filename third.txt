@@ -1,1 +1,1 @@
-This is the third file. Do some stuff, some more changes
+This is the third file. Do some stuff.
